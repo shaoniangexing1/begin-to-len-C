@@ -1,2 +1,4 @@
-# 初识C语言
+# BeginToLenC
+这是刚开始学c
+
 
